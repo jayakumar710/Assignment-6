@@ -1,0 +1,27 @@
+body
+{
+    text-align: center;
+    margin-top:90px;
+    background-image: url(bg.jpeg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+h1
+{
+    color: black;
+}
+button
+{
+    height:40px;
+    width: 9em;
+    border-radius:10px;
+    font-size:20px;
+    background-color: rgb(61, 61, 235);
+    color: blanchedalmond;
+    cursor: pointer;
+}
+button:hover
+{
+    background-color: rgb(241, 241, 241);
+    color: blue;
+}
